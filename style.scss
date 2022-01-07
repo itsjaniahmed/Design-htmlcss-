@@ -1,0 +1,12 @@
+// Google Fonts
+$font-link:'https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins&display=swap';
+@import url($font-link);
+
+// fonts
+$primary-font: Merriweather;
+$sec-font: Poppins;
+
+body{
+    font: 100% $primary-font;
+    font-size: 120px;
+}
